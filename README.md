@@ -1,2 +1,2 @@
 # README
-#DELIcous Sandwiches Project
+#DELIcious Sandwiches Project
